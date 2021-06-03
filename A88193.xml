@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble and further demand of Iohn Lilburne Gent. prisoner at the bar, in order to the inabling of him to plead to the bill of indictment preferred against him; whereunto he is required to this day (being the thirteenth day of August. 1653.) to plead. The said John Lilburne prisoner at the bar having formerly demanded oyer or hearing of the Act of Parliament in the said indictment mentioned, and thereupon a paper purporting an Act of Parliament being read unto him, in these words, viz. An Act for the execution of a judgement given in Parliament against Lieutenant Colonel John Lilburn.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88193</idno><idno type="EEBO-CITATION">99866257</idno>
+  <idno type="VID">118522</idno>
+  <idno type="EEBO-PROQUEST">2240942651</idno>
+  
+            <idno type="STC">Wing L2114</idno>
+            <idno type="STC">Thomason E710_16*</idno>
+            <idno type="STC">ESTC R207187</idno>
+            <idno type="PROQUEST">99866257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866257e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118522)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E710[16*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble and further demand of Iohn Lilburne Gent. prisoner at the bar, in order to the inabling of him to plead to the bill of indictment preferred against him; whereunto he is required to this day (being the thirteenth day of August. 1653.) to plead. The said John Lilburne prisoner at the bar having formerly demanded oyer or hearing of the Act of Parliament in the said indictment mentioned, and thereupon a paper purporting an Act of Parliament being read unto him, in these words, viz. An Act for the execution of a judgement given in Parliament against Lieutenant Colonel John Lilburn.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term type="topical_term">Civil rights --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="2629" facs="tcp:118522:1"/>
+            <head>
+               <hi>Numb:</hi> 165.</head>
+            <head>
+               <hi>Mercurius Politicus.</hi> Comprising the sum of all Intel<g ref="char:EOLhyphen"/>ligence, with the Affairs and Designs now on foot in the three <hi>Nations</hi> OF ENGLAND, IRELAND, &amp; SCOTLAND. In defence of the Commonwealth, and for Information of the People.</head>
+            <epigraph>
+               <q>
+                  <l>—<hi>Ità vertere Seria.</hi>
+                  </l>
+                  <bibl>Horat. de Ar. Poet.</bibl>
+               </q>
+            </epigraph>
+            <head>From <hi>Thursday,</hi> August 4. to <hi>Thursday</hi> August 11. 1653.</head>
+            <div type="report">
+               <head>From Edenburgh, <date>August <hi>1.</hi>
+                  </date>
+               </head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ere is little of any moment in these more southern Parts, save that the Ministers are very an<g ref="char:EOLhyphen"/>gry, and express it both in their Prayers and Sermons, at the dissolving of the <hi>generall Assembly</hi> by so rough a hand: which, as it was a thing unexpected, so it works, according to the variety of mens Judgments and apprehensions, severall Passions in this Nation.</p>
+               <p>The Marquis of <hi>Argile</hi> seems an earnest Con<g ref="char:EOLhyphen"/>tender to preserve his Fidelity professed to the Parliament, and endevors to keep those in his Country from any correspondence with the
+<pb n="2630" facs="tcp:118522:2"/>
+                  <hi>Highlanders.</hi> Besides, he hath written a very pas<g ref="char:EOLhyphen"/>sionate Letter to his Son, to conjure him away from that party, who are still a heading at <hi>Logha<g ref="char:EOLhyphen"/>ber,</hi> and expecting an opportunity to do mischief, being confident they shall hear of the <hi>Nollanders</hi> good success at Sea, who they think will be ser<g ref="char:EOLhyphen"/>viceable to them in their design.</p>
+            </div>
+            <div type="report">
+               <head>From Bordeaux, July <hi>31.</hi>
+               </head>
+               <p>Here is now an Agreement; the Articles are thus in brief; That the Prince of <hi>Conti</hi> repair to <hi>Cadillas,</hi> the Dutchess of <hi>Longueville</hi> to <hi>Pissack,</hi> there to stay during his Majesties pleasure. The Princess of <hi>Conde</hi> is to retire, with her Son, into <hi>Flanders;</hi> General <hi>Marsin</hi> to his own Country of <hi>Liege,</hi> and the Earl of <hi>Maur</hi> to the Pr: of <hi>Conde.</hi> Col. <hi>Balthazar</hi> hath partaken with the King; and the Princes Forces being here to be disbanded, a great part of them are Listed in his Majesties ser<g ref="char:EOLhyphen"/>vice. And so it is agreed, That the Peace shalbe published through this City by two Trumpets, whereof one of the Kings, the other a City one; and that <hi>Aug.</hi> 1. a solemn Mass shall be sung at <hi>St Dunstans,</hi> where all or most of our City are to be present; And the day following <hi>Te Deum</hi> is to be sung in the Cathedral of <hi>St Andrews,</hi> where the Dukes of <hi>Vendosme</hi> and <hi>Candale</hi> are to enter that day with their servants. By the next you may have the Articles of Agreement.</p>
+               <p>
+                  <hi>Westminster,</hi> August 2. Mr <hi>Rous</hi> was continued Speaker of the Parliament for one Month lon<g ref="char:EOLhyphen"/>ger. <hi>August</hi> 3. Upon the reading of Gen. <hi>Moncks</hi> Letter in Parliament, it was referred to the Councell of State to provide Necessaries for the
+<pb n="2631" facs="tcp:118522:2"/> sick and maimed Seamen, and to take care of the Widows and Orphans of such as are slain.</p>
+               <p>Also, that the Councell of State doe signifie to the Counties of <hi>Essex, Norfolk</hi> and <hi>Suffolk,</hi> that the Parliament hath taken notice of their tender re<g ref="char:EOLhyphen"/>spect to the sick &amp; wounded put ashore in those Counties, and their good resentment and accep<g ref="char:EOLhyphen"/>tation therof, and return thanks unto them.</p>
+               <p>Also that it be referred to the Commissio<g ref="char:EOLhyphen"/>ners for the Admiralty, &amp;c. and they required to put in execution the Resolves of Parliament passed <hi>December</hi> 22. 1652. touching the encou<g ref="char:EOLhyphen"/>ragement to be given to Mariners and Seamen in the States service.</p>
+            </div>
+            <div type="report">
+               <head>From Stratburgh, <date>Iuly <hi>30.</hi>
+                  </date>
+               </head>
+               <p>I know the great desire you have to receive at length the Relation I promised you long since, concerning the late troubles of our native Coun<g ref="char:EOLhyphen"/>try: wherein though I could have given you satisfaction ere this, yet knowing that your desire is to have it full and perfect, I have therefore forborn it hitherto; and seeing that at present by Gods gracious assistance, things are ended and reduced to its former peace and quietness, take it as followeth:</p>
+               <p>Whereas in the month of <hi>March</hi> last the sub<g ref="char:EOLhyphen"/>jects of the City of <hi>Lucern,</hi> in the Provinces of <hi>Endlebuch</hi> and <hi>Willisaw</hi> did in a tumultuous and insolent manner rise up against their own native and lawfull Magistrate, pretending hard and ri<g ref="char:EOLhyphen"/>gorous usage by some of their Provinciall Go<g ref="char:EOLhyphen"/>vernors, but more particularly they pretended to have sustained great loss by a late calling downe
+<pb facs="tcp:118522:3"/> of some <hi>species</hi> of Coin then currant in that coun<g ref="char:EOLhyphen"/>ty, when indeed it was nothing else, but their fulness of bread and lavish course of life, with a desire they had to see their great Debts cancel<g ref="char:EOLhyphen"/>led, which occasioned this Insurrection, and here<g ref="char:EOLhyphen"/>in they preceeded so far, that they did not onely draw up in an open body against the City, to the number of many thousands, keeping as it were the same blockt up, thereby to force them to an unbecoming Composition; but they committed also many great outrages and insolencies, so that it appeared a business of a very dangerous con<g ref="char:EOLhyphen"/>sequence, and the City not finding themselves sufficient to remove so great a storm, required the help of the other 6 <hi>Catholick Cantons,</hi> which they are obliged unto by their speciall and near<g ref="char:EOLhyphen"/>est League and Confederacy. But the Rebels seeing that their Magistrate in the City was to have help from other places, they likewise be<g ref="char:EOLhyphen"/>gan to look out for assistance from their Neigh<g ref="char:EOLhyphen"/>bors the subjects of the Cities of <hi>Bern, Solothurn,</hi> and <hi>Basill,</hi> sending to them their Emissaries, who with their fals and rebellious pretences and sug<g ref="char:EOLhyphen"/>gestions prevailed so far with a great number of them, that they promised them their aide and assistance, if need should require against their superiors. Hereupon the power of the Rebels begun to grow strong and numerous, that the City was not able longer to sustain them, and therefore of necessity was forced to make an Agreement with them, which occasioned the City of <hi>Bern</hi> likewise to come to a composition with their Rebels, who were at the same time al<g ref="char:EOLhyphen"/>so very considerable. But these Rusticks seeing,
+<pb n="2633" facs="tcp:118522:3"/> that the Rebels of the other two Cities of <hi>Basill</hi> and <hi>Solothurn</hi> kept up still, and that they would not once hear of a Composition, but intended to carry on their design by force, they found soon a pre<g ref="char:EOLhyphen"/>text to break and overthrow the said Agreement, though it was ne<g ref="char:EOLhyphen"/>ver so advantagious for them, saying it was set down and written in other terms, then it was at first conceived and agreed upon. So that the fire of Rebellion begun to break out more violently, and the four foresaid Cities, as <hi>Bern, Lucern, Basil</hi> and <hi>Solothurn,</hi> were pestered more then before. Whereupon a speedy and general con<g ref="char:EOLhyphen"/>vention was called together of all the 13 Cantons indifferently, where they did consult, what means were best to use to prevent and remedy these great and still-increasing evils: And for this end, they sent divers honorable Messengers, as well to the said infested Cities, as to their rebellious subjects, who did shew them their duty, and the danger they were in; but especially they exhorted the subjects to quietness, respect and obedience toward their lawful and native Magistrate, telling them, that if they had any legal and well-ground<g ref="char:EOLhyphen"/>ed grievances to shew, they should finde a gracious hearing of their Superiors, and a speedy redress according as the nature of things should require: But notwithstanding all these, and the like gra<g ref="char:EOLhyphen"/>cious offers, that were made unto the Rebels (where there was no<g ref="char:EOLhyphen"/>thing omitted that might become a meek and a Christian Magi<g ref="char:EOLhyphen"/>strate) they went still on in their Rebellious courses, and nothing would take with this besotted and foolish people: For whereas they should have acknowledged the favour and meekness of their Supe<g ref="char:EOLhyphen"/>riours, and have laid down their arms, and turned to obedience: they on the contrary met together from all parts, near unto a place called <hi>Huttwyl,</hi> in the Territory of <hi>Bern,</hi> where they did binde and oblige themselves together in a new Oath and Covenant, to ven<g ref="char:EOLhyphen"/>ture all what they had, life, reputation, goods and blood, nor to lay down their arms until they had accomplished their design. But when the other <hi>Cantons,</hi> as well interessed, as not interessed, did see how far the presumption of this people had gone, and that they re<g ref="char:EOLhyphen"/>fused all just and favorable offers, intending to carry it out by force, they resolved likewise on their part, to take another course, and being they would not be reduced by fair means, to use their power and authority to inforce them, especially when they saw they were come to that height, that they laid siege to both the Cities of <hi>Bern</hi> and <hi>Lucern,</hi> with above twenty thousand men, where they broke open the Granaries and Magazins of their Superiors, plundred them, seized the Post, broke open the Letters, reviled their Ma<g ref="char:EOLhyphen"/>gistrates, and abused them at home, and by their Letters abroad; and if they met with any that would not joyn with them, they did abuse them likewise in a barbarous manner, cutting and flit<g ref="char:EOLhyphen"/>ting their noses and ears, and robbing them. Thus they forced many to take part with them, and committed many other almost incredible insolences and outrages.</p>
+               <pb n="2635" facs="tcp:118522:4"/>
+               <p>Hereupon did the other disingaged <hi>Protestant cantons, viz. Zurich, Glaris, Schaffhausen, Appenzell</hi> and St. <hi>Gallen,</hi> gather their Forces to<g ref="char:EOLhyphen"/>gether, and with a competent field-army, provided of all necessaries, and a good train of Artillery, they marched out against them, to<g ref="char:EOLhyphen"/>wards <hi>Mellingen,</hi> a strong place possessed by the Rebels, which they took in, and incamped themselves near about it, from whence they sent out parties and brought in several prisoners who told them the state of affairs. The Rebels made no great resistance in the begin<g ref="char:EOLhyphen"/>ning, but made a shew as if they were willing to come to an agree<g ref="char:EOLhyphen"/>ment, and therefore desired a short cessation of Arms. And this they did only to render our people secure, that so they might sur<g ref="char:EOLhyphen"/>prise them unawares, as it proved afterwards. For upon the 24. day of <hi>May</hi> came their General <hi>Nicolaus Lyonberger,</hi> a Peasant of the Territory of <hi>Bern,</hi> suddenly with all his Forces, which were a<g ref="char:EOLhyphen"/>bove twenty thousand effective able men, thinking thus to sur<g ref="char:EOLhyphen"/>prise our Army in the Camp; but they found themselves much deceived afterwards, by reason of the vigilancy and gallant re<g ref="char:EOLhyphen"/>sistance our people made, and the impression of our Cannon, which they conceived to be of little use in wet and rainy wea<g ref="char:EOLhyphen"/>ther, as it then was, so that they were beaten off with conside<g ref="char:EOLhyphen"/>rable loss.</p>
+               <p>The next day the Rebels vvould try their fortune again, and set upon our Camp, but being beaten back and vvorsted again, they be<g ref="char:EOLhyphen"/>thought themselves, and desired to come to an agreement, sending several of their Commissioners into our Camp: After some delibe<g ref="char:EOLhyphen"/>ration the accord was made and agreed upon on both sides in fol<g ref="char:EOLhyphen"/>lowing particulars.</p>
+               <p>First, That they should lay down their arms, and return every man to his own home. Secondly, they should renounce their new Covenant and unhappy Confederacy they had made amongst them<g ref="char:EOLhyphen"/>selves, and to that end deliver up the Original Writings thereof un<g ref="char:EOLhyphen"/>to our General. Thirdly, they should deliver up their Leaders in<g ref="char:EOLhyphen"/>to the hands of the Magistrates to be punished. Fourthly, that the Forces of the Magistrates and the indifferent Cantons should re<g ref="char:EOLhyphen"/>main in the field so long, till all things were setled again and reduced to former order and obedience. Whilst these things were thus in action about <hi>Mellingen,</hi> the three infested Cities of <hi>Bern, Lucern,</hi> and <hi>Basil,</hi> made a sudden sallie upon their rebellious Subjects, whom they likewise routed, that they did throvv away their arms, and begged mercy, promising hereafter better obedience, and to deliver up their Leaders. Whereupon, the Magistrate caused all the Ring<g ref="char:EOLhyphen"/>leaders to be sought out, and to be brought before them, where they examined them strictly, and according to their default, some were put to death, other had their ears and noses cut, and tongues flit, and many banished out of the Land: But the most part shewing true repentance, and promising all obedience and quietness for the
+<pb n="2635" facs="tcp:118522:4"/> future, were pardoned and restored to their innocent wifes and children. Indeed the enormity of the crime deserved a greater and further punishment; but seeing it was found by the tryal of the most guilty, that the most part were either drawn into this Rebelli<g ref="char:EOLhyphen"/>on by the cunning of some Malignant persons, or else were driven thereunto by open force, the Magistrates did content themselves with the bloud of a very few, hoping that the punishment which is in<g ref="char:EOLhyphen"/>flicted but upon a few, would have its influence upon many, and therefore imployed all the rigour of the Law therein, that they might receive satisfaction for the charges of this Expedition, out of the Lands and Goods of the said Rebels. But as there is no crime or wickedness so great and hainous, which, as the Proverb saith, doth not find its Advocate and Patron: So was it likewise, that an Ambassador representing a great neighbouring Prince, did shew himself so compassionate unto those Rebels and disturbers of the Publick Peace, that he did earnestly and instantly intercede for one of the chiefest Ringleaders, that he might be pardoned; but he did not only not obtain it, but was also rejected with much indignati<g ref="char:EOLhyphen"/>on, and the Traytor executed that very day.</p>
+               <p>But as for the chief Rebels they are not yet all brought unto ex<g ref="char:EOLhyphen"/>ecution, but several of them are reserved, especially their General, <hi>Lyonberger,</hi> on purpose, to see whether any thing may be found out concerning their complices and abettors, as well within as without the Country, that so they may be brought also to condigne punish<g ref="char:EOLhyphen"/>ment, and the other be made sensible, that it is and will be gene<g ref="char:EOLhyphen"/>rously resented. For there is no question to be made, but that there have been some of our potent neighbours, that have been tamper<g ref="char:EOLhyphen"/>ing in this ugly business, longing to see the ruine of our Liberty, a great eyesore to many: even so may they that shall be found to have a hand in it, be made sensible that it is not so slight a matter, to abuse the Subjects of a neighbouring State, and to lead them away from their due obedience; but ought to be taken notice of and re<g ref="char:EOLhyphen"/>sented. Neither is it to be believed, that any one, how powerfull and mighty so ever he may think himself, durst adventure so far, or think it so small a thing, to appear openly in it, or to give the Rebels any assistance. The chiefest thing wherefore we are bound to praise God, is, that he was pleased so graciously and powerfully to assist the Magistrate, to grant them strength, and wisdom, and power, that this great Insurrection, the like as was never heard of before in this Country, should be thus quickly and with so little bloud appeased, and they inabled to give their adversaries to understand, that it is not so easie a thing to meedle with them, no not in their greatest troubles and intrinsical divisions. Which I thought good to ac<g ref="char:EOLhyphen"/>quaint you with, to satisfie your curiosity, and to enable you to re<g ref="char:EOLhyphen"/>fute all other contrary informations authentically.</p>
+            </div>
+            <div type="report">
+               <pb n="2636" facs="tcp:118522:5"/>
+               <p>
+                  <hi>Westminster, August</hi> 4. The House being infor<g ref="char:EOLhyphen"/>med that there was som Justices of Peace of the County of <hi>Kent,</hi> with a Petition, they were call'd in; and being come to the Bar, they presented a Petition, which after they were withdrawn, was read, and was entituled, <hi>The humble Petition of ma<g ref="char:EOLhyphen"/>ny the well-affected in the County of</hi> Kent;</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="petition">
+                           <head>To the Parliament of the Commonwealth of England, The humble Petition of many of the well-affected of the County of <hi>Kent:</hi>
+                           </head>
+                           <p>Sheweth,</p>
+                           <p>THat though the Kings of the Earth have bin unwilling that the anointed Jesus should reign: yet the observation of the out-goings of the most high in these latter days, causeth your Petitioners to believe, That the day of the ac<g ref="char:EOLhyphen"/>complishment of the Promises on the behalf of the Son of righteousness is dawned, if not appro<g ref="char:EOLhyphen"/>ched very near its Noon, who is weary always to behold the Burthens on the backs, the Yokes on the necks, and to hear the Groans and cries from the mouths of his People; wherefore he hath poured forth a Spirit which hath encountred and vanquished our open Opressors, and poured contempt upon those who would be but partiall Deliverers; the Sun of whose power set at noon, because it ripened not the Desires and Petitions of Gods people by a favourable influence, but suffred their hopes to blast, after so many Pro<g ref="char:EOLhyphen"/>mises and Protestations, and so much expence of Treasure and Blood. The same God who hath pulled them down, hath set you up, but not to rule for your selves, but for the people of God; nor to seek your own, but the honor of Christ:
+<pb n="2637" facs="tcp:118522:5"/> And we can do no less then hope and pray, That the Spi<g ref="char:EOLhyphen"/>rit of the Lord may fall down upon you (and teach you to rule after the heart of Christ) to whom we make bold to make this humble Address, not to interrupt your weighty affairs, or mis-doubting your Wisdom and Faithfulness, But only to shew how our hearts own you as our Parlia<g ref="char:EOLhyphen"/>ment; and to confess, We dare not neglect our assistance to the great Work of the Lord, though it be but in being your Remembrancers of what you have proposed to us of your desires in your late Declaration, to the breaking of all our Yokes, and removing all our burthens, at which our Souls joy. And to keep warm the breathing of that Spirit, We humbly crave leave to spred before you one Grand Burthen, under which we have groaned till our hearts ake;</p>
+                           <p>
+                              <hi>Humbly desiring, That Tythes of all sorts, Root and Branch, may be abolished, That that Jewish and Antichristian Bondage and Burthen on the Estates and Consciences of the godly may cease and that we may not be insnared with forced maintenance, or any thing like it in the stead thereof.</hi>
+                           </p>
+                           <p>
+                              <hi>And your Petitioners shall own the Lord in you, and bless the Lord for you and pray, hope and wait to fee your hands stretched out for the Lord, till you shall help to tear the flesh of the Whore, and burn her with fire.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Petitioners were again called in, and being come to the Bar, Mr. Speaker by command of the House did re<g ref="char:EOLhyphen"/>turn them this Answer;</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="answer">
+                           <p>Gentlemen, <hi>The House doth take notice of your good affection to the Parliament, and hath commanded me to tell you, That the business in your Petition is and shall be in due time under consideration; and that the House will do therein as the Lord shall direct them, and thereupon the Petitioners withdrew.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <pb n="2638" facs="tcp:118522:6"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="letter">
+                           <head>A second Let<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>er from General Monck, aboard the Reso<g ref="char:EOLhyphen"/>lution, <hi>18.</hi> Leagues to the westward of the Texel, August <hi>2. 1653.</hi>
+                           </head>
+                           <head>For the Right Honorable the Councel of State.</head>
+                           <p>SInce mine to you yesterday (wherein I gave you an Accompt of the goodness of God towards us, and appearance for us in the Engagement with our Ene<g ref="char:EOLhyphen"/>mies the day before, and that we were then in persuit of them) there hath little more been done, night drawing on, and the Dutch making directly for the Texel with what sail they could; so that it was not thought fit for us to be so bold with the shore as they might, not knowing how the wind might take us, many of our ships being much disabled; but give order to a small Vessel or two to keep sight of them till the morning, and observe what course they steered; who in returning gave an accompt, that the enemy steered the same night into the Texel har<g ref="char:EOLhyphen"/>bor, and had boats with ligh<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s to shew them the way in. Whereupon yesterday at a Councel of War, it was Re<g ref="char:EOLhyphen"/>solved, that the whole fleet should forthwith set sail for <hi>Southold</hi> Bay, there to dispose of such Ships as are disa<g ref="char:EOLhyphen"/>bled, and to send away our wounded men and Prisoners, of whom a certain accompt cannot be given at present; but I do present your Lordships with a general Accompt here inclosed, referring the condition of the Wives and Families of those who are slain, to your Lordships ten<g ref="char:EOLhyphen"/>der care, wherein I doubt not but you will have respect to their necessities.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <head>An Estimate of Prisoners taken, also how many ships of the enemies sunk and fired, and how many men of our own killed and wounded in the Engagement with the Dutch, <hi>July 29 and 31. 1653.</hi> as it was sent from the General.</head>
+                           <p>Prisoners taken, One thousand:</p>
+                           <p>Ships sunk and fired, of which some were taken, and af<g ref="char:EOLhyphen"/>ter fired and sunk, that we might not be hindred in the pur<g ref="char:EOLhyphen"/>suit, Thirty or there abouts.</p>
+                           <p>Men of our own slain 250. or there abouts.</p>
+                           <p>Wounded 700. or there abouts.</p>
+                           <pb n="2639" facs="tcp:118522:6"/>
+                           <p>The Oak, and one Fire ship of our own burnt.</p>
+                           <list>
+                              <head>Slain.</head>
+                              <item>
+                                 <hi>Andrew,</hi> —Cap. <hi>Thomas Graves.</hi>
+                              </item>
+                              <item>
+                                 <hi>Golden-Cock,</hi> —Cap. <hi>Edmund Chapman.</hi>
+                              </item>
+                              <item>
+                                 <hi>William,</hi> —Cap. <hi>John Tailor.</hi>
+                              </item>
+                              <item>
+                                 <hi>May-flower Merchant,</hi> — Cap. <hi>William Newman.</hi>
+                              </item>
+                              <item>
+                                 <hi>Prosperous,</hi> — Cap <hi>Crisp.</hi>
+                              </item>
+                              <item>
+                                 <hi>Phenix,</hi> — Cap <hi>Owen Cox.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>Wounded.</head>
+                              <item>
+                                 <hi>Triumph,</hi> — Cap. <hi>Peacock.</hi>
+                              </item>
+                              <item>
+                                 <hi>Lawrel</hi> — Cap. <hi>Iohn Stokes.</hi>
+                              </item>
+                              <item>
+                                 <hi>Dragon,</hi> —Cap. <hi>Iohn Seaman.</hi>
+                              </item>
+                              <item>
+                                 <hi>Portland,</hi> — Cap. <hi>William Rous.</hi>
+                              </item>
+                              <item>
+                                 <hi>Assurance,</hi> —Cap. <hi>P. Holland.</hi>
+                              </item>
+                              <item>
+                                 <hi>Tulep.</hi> —Cap. <hi>Ioseph Cubit.</hi>
+                              </item>
+                           </list>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The House thereupon did refer it to the Commissioners for ordering and managing the affairs of the Admiralty and Navy, to consider of some provision to be made for the Wives and Children of the Captains slain in this Service, and Report their opinion therein to the House.</p>
+               <p>Now for further satisfaction to Mariners and Sea men, here is inserted some Votes and Resolutions of Parliament, of 22. December, 165<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. mentioned in Wednesdays Pro<g ref="char:EOLhyphen"/>ceedings: and are as followeth:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_document">
+                           <head>As to sick and wounded men.</head>
+                           <p>
+                              <hi>REsolved by the Parliament,</hi> that for supplying of necessary Provisions unto sick and wounded men on board, there be allowed by the State, Five pounds for six moneths service for every hundred men.</p>
+                           <p>
+                              <hi>Resolved, &amp;.</hi> That upon the discharge of sick and woun<g ref="char:EOLhyphen"/>ded men from the ships of the States service, care be taken for the payment of their Tickets and Conduct money.</p>
+                           <p>
+                              <hi>Resolved, &amp;c.</hi> That directions be given to all Majors, Bayliffs or other Magistrates in any Port-Towns, to take care for all necessary accommodations as the charge of the State, for the relief and cure of such sick and wounded men as shall be sent on shore:</p>
+                           <pb n="2640" facs="tcp:118522:7"/>
+                           <p>
+                              <hi>Resolved, &amp;c.</hi> That a convenient house be provided in or near <hi>Dover, Deal</hi> or <hi>Sandwich,</hi> as an Hospital, for the receipt and accommodation of wounded men that shall be there sent on shore.</p>
+                           <p>
+                              <hi>Resolved, &amp;c.</hi> That the moyety of all Hospitals in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> imployed for the cure of wounded and sick people, be reserved during this War at sea, for such as shall be wounded in the service of the Navy, as they shall become void, from and after the first of <hi>Ianuary</hi> next.</p>
+                           <p>
+                              <hi>Resolved &amp;c.</hi> That the tent<gap reason="illegible: faint" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>s <gap reason="illegible: faint" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> a<gap reason="illegible: faint" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> prizes taken or to be taken, customarily due to the Lord High-Admiral, be appointed for defraying the charges of sick and wounded men aforesaid, and for the relief of widows, children and impotent Parents of such as shall be slain in the service of the Commonwealth at Sea, and for Meddals, or other re<g ref="char:EOLhyphen"/>wards to such Officers and Seamen of the Fleet, as shal be found to have done any eminent or extraordinary service.</p>
+                           <p>
+                              <hi>Resolved &amp;c.</hi> That it be referred to the Commissioners appointed by Act of Parliament, for ordering and mana<g ref="char:EOLhyphen"/>ging the affairs of the Admiralty and Navy, with power to see the particulars aforementioned put in execution, to give such orders from time to time, as shall be requisite for the effecting thereof; and to cause publication to be made of the promises, in such manner as they shall think fit.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The same day also, being August 5. t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e House took in<g ref="char:EOLhyphen"/>to debate, according to former Order, the business of the Court of Chancery, and it was Resolved upon the Question:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_order">
+                           <p>That the High Court of Chancery of England, shall be forthwith taken away, and that a Bill be brought in for that purpose.</p>
+                           <p>
+                              <hi>Resolved,</hi> that it be referred to the Committee of the Law, to prepare a Bill for this purpose, and to report it to the House.</p>
+                           <p>Ordered, that it be referred to the same Committee, to consider how the Causes now depending in Chancery may be determined; and likewise, a Provision for determining
+<pb n="2641" facs="tcp:118522:7"/> matters of equity for the future, and putting in order other mat<g ref="char:EOLhyphen"/>ters of Law which are within the Jurisdiction of that Court, and forthwith bring in a Bill for that purpose.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="report">
+               <p>
+                  <hi>Westminster, August</hi> 8. An additional Act for stating and deter<g ref="char:EOLhyphen"/>mining the Accounts of the Officers and Souldiers of the Army in <hi>Ireland,</hi> was this day passed, and ordered to be printed and published.</p>
+               <p>It was ordered also, that several Gold-Chains be sent to Gene<g ref="char:EOLhyphen"/>ral <hi>Blake</hi> and Gen. <hi>Monk,</hi> as a mark of favour from the Parlia<g ref="char:EOLhyphen"/>ment, and in token of their good acceptance of the eminent ser<g ref="char:EOLhyphen"/>vices performed by them against the Dutch; as also to the Vice-Admiral <hi>Pen,</hi> and Rere-Admiral <hi>Lawson,</hi> upon the same considera<g ref="char:EOLhyphen"/>tion; and some other Chains to be given to the four Flag-Offi<g ref="char:EOLhyphen"/>cers; and Medals to be bestowed among the Officers of the Fleet, as a mark of the Parliaments favour, and good acceptance of their service.</p>
+               <p>A Bill touching Mariages, and Registring thereof; and also of Births and burials, was this day read and Committed.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_resolution">
+                           <head>Resolved upon the Question by the Parliament;</head>
+                           <p>That a day be set apart for a Solemn thanksgiving to Almigh<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y God, for his great mercy in the late success vouchsafed unto the Navy of this Commonwealth against the <hi>Dutch;</hi> and that a De<g ref="char:EOLhyphen"/>claration be prepared, to invite the people of God in the Nati<g ref="char:EOLhyphen"/>on to joyn in the observation thereof.</p>
+                           <p>
+                              <hi>Resolved,</hi> that <hi>Thursday</hi> next come fortnight, being the 25 instant, be the day wherein the Parliament shall meet for that purpose at <hi>Margaret<gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>s</hi> Church in <hi>Westminster.</hi> And Mr. <hi>Owen</hi> and Mr. <hi>Cradock</hi> are desired to perform the exercise of that day.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="report">
+               <head>From <hi>Plymouth, August 2.</hi>
+               </head>
+               <p>There is come into this Harbor the <hi>Love</hi> of <hi>London</hi> from <hi>East-India;</hi> which makes report of about 4 of our <hi>East-Indy</hi> ships taken by the <hi>Dutch</hi> in those remote Parts; but they had not their full Freight.</p>
+            </div>
+            <div type="report">
+               <head>From Paris, August <hi>13.</hi> stilo novo.</head>
+               <p>Notwithstanding the Agreement made at <hi>Bourdeaux,</hi> the Court are much unsatisfied, and hath repealed all the capitulations of Agreement made with that City, and whatsoever was promised by the Dukes of <hi>Vendosme</hi> and <hi>Candale,</hi> and have sent them orders to quit the City, and besiege it again, and retake it at discretion, only that their lives and goods shall be saved.</p>
+               <p>The Princess of <hi>Conde</hi> hath so much jealousie of the Prince of <hi>Conti,</hi> her husbands brother, who commanded there in his bro<g ref="char:EOLhyphen"/>thers
+<pb n="2642" facs="tcp:118522:8"/> behalf, that she hath said openly he was a Traytor, a Ba<g ref="char:EOLhyphen"/>stard, and unworthy of the name of <hi>Bourbon;</hi> charging him, that he hath made his Agreement above three months before; and so no wonder that the Court was so favourable to his Interest, and so willing to comply for his advantage.</p>
+               <p>There is nothing here but Injustice, and appearance of putting all men into despair, both co<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cerning the General and Particu<g ref="char:EOLhyphen"/>lar. It is given out as certain, that <hi>Charls Stewart</hi> is to be gone out of hand and that the money is ready for his intended voyage; which (some sa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) is for some part of the <hi>Low Countries,</hi> that he may be near to sl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p into the <hi>Ʋnited Provinces,</hi> i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his sisters party can eff<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct any thing for him.</p>
+               <p>This Court intends to make up a new Fleet, to be added to that under the Duke of <hi>Vendosme.</hi> There is a Pirate of 36 guns, to go suddenly out of <hi>Brest;</hi> and with him there are to joyn 7 or 8 Iester F<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ars, part commissionated by the <hi>Dutch,</hi> and part by <hi>Cha<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls Stewart.</hi> Here is ne<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s come, that at <hi>Names,</hi> there is an Am<g ref="char:EOLhyphen"/>bassador arived from <hi>Portugal.</hi>
+               </p>
+               <p>The Prince of <hi>Conde</hi> is become very considerable, and exceeds the King in number of Forces, being reported 7000 foot, and 1000 horse, besides the Spanish Auxiliary Army under the command of the Count of <hi>Euensaldagne,</hi> which makes 13000 horse and foot more. He hath sent divers Challenges to Marshal <hi>Turein</hi> to fight which the marsh I declines, having orders so to do, and indeed is the weakedly at least 7000. But for his recruit, ten Companies of the Kings Guards, with several Troops, are sent unto him. This declining on the Kings part, hath given <hi>Conde</hi> an oportunity to get within eight leagues of this C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, plundring all, his Ger<g ref="char:EOLhyphen"/>mans ravishing the Nuns, and ransacking all religious houses, fi<g ref="char:EOLhyphen"/>ring Suburbs of <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owns, and inforcing Contribution from others. He made wa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> fa<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as to come and dine at his own house. The designe of the Court is, to avoid fighting this year, and let him tire out his Army: But the question is, whether they can avoid him.</p>
+            </div>
+            <div type="report">
+               <head>From the Hague, August <hi>8.</hi> stilo novo.</head>
+               <p>We are here in daily expectation of an engagement between the two <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> news being come that Admiral <hi>Tromp</hi> is got out to Sea with 84 Sail, hoping to unite with those that are to go out from the <hi>Texel,</hi> which are the most substantial and serviceable ships. They say now, they are resolv<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d all for boarding, and that it shall <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> water to get another victory over them. The men seem resolved, and count themselves better at sea fight than
+<pb n="2643" facs="tcp:118522:8"/> the English: Thus they brag abroad and ashore; and for encou<g ref="char:EOLhyphen"/>ragement of the Seamen, the States have proclaimed very great rewards for such as shall deserve well: As, that they shall have all the shipping they can take, the State not intending to claim a<g ref="char:EOLhyphen"/>ny share. Also that they shall have so many thousand gilders o<g ref="char:EOLhyphen"/>ver and above, who can take the English Admiral, and some thou<g ref="char:EOLhyphen"/>sands less who can take the English Vice Admiral, and a good reward is assigned for him who takes down the Flag of the En<g ref="char:EOLhyphen"/>glish Admiral. And now, if this, with the help of gunpowder and Brandewine, will not do it, I know not what will do next; for, Proclamation hath been made of these G<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atuities through<g ref="char:EOLhyphen"/>out the whole Fleet, by order of the <hi>High and Mighties.</hi>
+               </p>
+               <p>Just while I am writing this, several Intelligences are brought in hither of the great guns playing loudly this afternoon at sea; so that we all conclude an Engagement, and mighty earnest gaping there is for the event of the business. And if it go against them, it is a great question what course shall be taken; for, they have not so much as a thought yet, and cannot indure to hear of giving satisfaction or security to <hi>England;</hi> especially in this Town of the <hi>Hague,</hi> where the Cavalier and Orange party are rampant, and will improve all their wits and interest to make this people de<g ref="char:EOLhyphen"/>sperate, that they may ride them on in their designes against <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and (if possible) get an admission of <hi>Charls Stewart</hi> in among them; and then this State will be made to bear his charges in all attempts whatsoever. Here hath newly been a very great confu<g ref="char:EOLhyphen"/>sion in this place; and all upon the return of the young Prince of <hi>Orange</hi> to Court: For, the boyes having of late shewed themselves often in arms a training, they beat their drums in the name of the Prince, and wore his colours: And when the Prince drew near, they went out of Town yesterday, and met him, and brought him in in warlike equipage, with drums beating, and colours flying, which being done, and the Prince lodged at Court, they began to grow very high, being whispered in the ear by their abestors, that they fell to breaking of the Fiscal windows; which they did to some purpose, notwithstanding that two Companies of Souldiers were set to guard the house. Afterwards they fell on the house of <hi>de Wit</hi> of <hi>Dort,</hi> and spoiled it. From thence they went to the house which belonged to the States of <hi>Holland,</hi> where they did the like; but then were dispersed by 4 troops of horse. What account will be taken of this business, a little time will shew, But it's conceived there are too many countenancers of this Riot, even among those who have power, and ought to punish it.</p>
+               <q>
+                  <pb n="2644" facs="tcp:118522:9"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <head>A List of the Dutch Captains taken Prisoners.</head>
+                           <p>
+                              <hi>Cornelius Evertson</hi> Vice-Admiral of <hi>Zealand,</hi> and Captain of the <hi>Zealand</hi>-Lyon, 28 Guns, and 130 men, sunk:</p>
+                           <p>
+                              <hi>Clause Johnson Zanger,</hi> Cap of the <hi>Westcappal,</hi> 26 Guns, and 104 men, sunk:</p>
+                           <p>
+                              <hi>Andrew Forteen,</hi> Capt of the <hi>Concord</hi> of <hi>Zirick-zee,</hi> 22 Guns, 100 men, burnt.</p>
+                           <p>
+                              <hi>Gerbron Scotter,</hi> Capt of the <hi>Golden Dolphin,</hi> 30 Guns, 110 men, sunk.</p>
+                           <p>
+                              <hi>Frederick Stillingworth,</hi> Capt of the <hi>Seven- wooden,</hi> 38 Guns, 135 men, sunk.</p>
+                           <p>
+                              <hi>John de Hayes,</hi> Commander of the <hi>Garland,</hi> a ship formerly taken from us by the Dutch, 44 Guns, 180 men, burnt.</p>
+                           <p>It is much suspected there are more Captains Prisoners, though not yet known.</p>
+                           <p>The Dutch had about 33 of their ships sunk, fired and destroyed, of which some were sunk after they were taken, that the service might not be hindred:</p>
+                           <p>Each of our Flag-ships the enemy had designed to fire, but Providence dis<g ref="char:EOLhyphen"/>appointed them: Two Fire ships lay on board the <hi>Triumph</hi> and <hi>Andrew,</hi> which begun to take fire on their sails, and 15 of our men leap'd over board, and were drowned to avoid the fire: yet God put courage into some of the men, so as that they made shift to put off the Fireships before they came to their Hulls:</p>
+                           <p>The <hi>Dutch East-India</hi> ships and others, to the number of 18 are at <hi>Bergen</hi> in <hi>Norway:</hi>
+                           </p>
+                           <p>Our English fleet is gone to <hi>Sole</hi>-Bay to recruit with all things necessary, whi<g ref="char:EOLhyphen"/>ther some of the Commissioners of the Admiralty are gone to them, and all man<g ref="char:EOLhyphen"/>ner of materials will be provided, that they may speedily out again; The <hi>Ge<g ref="char:EOLhyphen"/>neral</hi> hath left 24 sail plying before the <hi>Texel,</hi> and 14 sail of fresh ships are gone to them.</p>
+                           <p>Two of the Dutch Deputies, the Heers <hi>Beverning</hi> and <hi>Newport,</hi> departed hence with Leave, the day after the news of the victory; the other two remain here stil:</p>
+                           <p>From <hi>Paris</hi> comes a Letter dated <hi>August</hi> 16 <hi>stilo novo;</hi> which contains nothing more then in confirmation of the former Intelligence; adding this only, that <hi>Charls Stuart</hi> fell very sick of a Feaver two days before:</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="report">
+               <p>
+                  <hi>Aug.</hi> 10. Mistris <hi>Lilburne</hi> presented a Petition to the Parliament on the behalf of her Husband; which occasioned the following Order,</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_order">
+                           <opener>
+                              <dateline>
+                                 <date>Wednesday August 10. 1653.</date>
+                              </dateline>
+                           </opener>
+                           <p>REsolved upon the Question by the Parliament, That the Vote of this House of the second of August instant, for the close Imprisonment of Lieut. Colonell John Lilburn be taken off in Order to his Tryall.</p>
+                           <closer>
+                              <signed>Hen. Scobell Clerk of the Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Mr. <hi>Lilburne</hi> this day appearing at the Bar, The Court demanded of him, whether he would stand to his former Exceptions; to which he answered, that he had been 8. or 10. days a close Prisoner, his friends not suffered to come to him, and his Counsel was out of Town, whereby he was rendred incapable; and therefore desired till the end of the Sessions: notwithstanding, if his Councel should not come, he resolved to go on with the business himself, though he should put his life in hazard.</p>
+               <p>Mr. <hi>Lilburne</hi> likewise told the Court, That he would cast his life upon <hi>Oyer,</hi> and demanded time to prepare himself. To which the Recorder answered, we know you have nothing but your Exceptions, and you may take till to morrow at noon, and as to the <hi>Oyer</hi> the Court will be satisfied in that themselves: Mr. <hi>Lilburne</hi> told the Court, That if he might enjoy the Laws of England, his bu<g ref="char:EOLhyphen"/>siness should never come to a Jury</p>
+               <p>This is the summ of what passed as to his Tryall this day.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licensed and Entred according to the late Act for Printing.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>Tho, Newcomb,</hi> 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
